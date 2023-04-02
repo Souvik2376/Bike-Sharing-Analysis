@@ -1,4 +1,4 @@
-# Bike Sharing Demand Analysis - Regression
+# Bike Sharing Analysis 
 
 
 
@@ -44,6 +44,8 @@ INESC Porto, Campus da FEUP
 Rua Dr. Roberto Frias, 378
 4200 - 465 Porto, Portugal
 
+**Download link:** https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset
+
 Original Source: http://capitalbikeshare.com/system-data
 
 Weather Information: http://www.freemeteo.com
@@ -51,7 +53,7 @@ Weather Information: http://www.freemeteo.com
 Holiday Schedule: http://dchr.dc.gov/page/holiday-schedule
 
 
-**Original link:** https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset
+
 
 ## Libraries
 
