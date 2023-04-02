@@ -1,4 +1,4 @@
-# Bike Sharing Analysis 
+# Bike Sharing Demand Analysis - Regression
 
 
 
@@ -35,7 +35,23 @@ Both hour.csv and day.csv have the following fields, except hr which is not avai
 - registered: count of registered users
 - cnt: count of total rental bikes including both casual and registered
 
-**Download link:** https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset
+## Source
+
+
+
+Laboratory of Artificial Intelligence and Decision Support (LIAAD), University of Porto
+INESC Porto, Campus da FEUP
+Rua Dr. Roberto Frias, 378
+4200 - 465 Porto, Portugal
+
+Original Source: http://capitalbikeshare.com/system-data
+
+Weather Information: http://www.freemeteo.com
+
+Holiday Schedule: http://dchr.dc.gov/page/holiday-schedule
+
+
+**Original link:** https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset
 
 ## Libraries
 
@@ -55,4 +71,8 @@ Both hour.csv and day.csv have the following fields, except hr which is not avai
 <li>Random Forest
 <li>Extra Tress
   
-**Mean Squared Error:** 0.3890
+## Mean Error
+  
+**Mean Error:** 0.3890
+
+![Alt text](Assests/Capture.PNG)
